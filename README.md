@@ -27,3 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
+x-special/nautilus-clipboard
+copy
+file:///home/fisnik/Downloads/Screenshot%202023-04-28%20at%2010-49-43%20Vite%20App.png
